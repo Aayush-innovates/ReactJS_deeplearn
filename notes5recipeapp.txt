@@ -1,0 +1,2 @@
+useEffect Hooks for search ? helps to sync our component with some another system ie making a call to API.
+ useEffect(() => {}, []); // callback function and dependency list(on whose change you want to do that).

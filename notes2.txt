@@ -1,0 +1,9 @@
+Props ??
+values passed to the components to make them dynamic 
+they are object that contains properties
+We can have as many Props
+Application gets rendered twice 
+destruction props = const {name, message} = props;
+props are immutable
+key while using list 
+Use element variables to conditionally render something instead of two return statements 

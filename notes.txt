@@ -1,0 +1,14 @@
+document.getEl  ementById('root') selects the HTML element to render the app.
+createRoot(...) initializes a React 18 app root.
+<StrictMode> is a development tool to catch potential problems.
+<App /> is your main component that's displayed on the screen.
+react-basics/vite.config.js : used for running the particular vite app
+package.json : stores dependencies and scripts 
+gitignore : contains files that are ignored while pushing to github
+node modules : contains modules required for running a react app 
+Components returns jsx which is like html but not htm
+1. modularity
+2. reuseable and management
+3. abstraction
+
+JSX allows adding javascript to html ie <>(any tag) { }->this is used to add javascript</>

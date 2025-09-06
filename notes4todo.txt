@@ -1,0 +1,9 @@
+30-45
+todo state string
+todos state list/array
+displaying using the map using component
+inline css
+css stylesheets
+css modules componentname.module.css  (todo app styling is done with this)
+jsx code to components
+map reduce filter 

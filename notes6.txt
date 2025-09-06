@@ -1,0 +1,4 @@
+usereducer - const [statename, dispatch] = useReducer(reducerFunction, inital value of the state );
+function reducer(state, action){
+
+}// 2 parameters

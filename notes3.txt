@@ -1,0 +1,6 @@
+Event handling in ReactJs
+onclick events
+State ? : why use : props are immutable 
+props are passed while the state in already present in the component 
+using multiple usestates
+...name(usestate variable)
