@@ -1,6 +1,6 @@
 # 📘 ReactJS_deeplearn
 
-> *Don’t React, Do ReactJS 🚀*  
+> *Don’t just React, do ReactJS 🚀*  
 A structured collection of ReactJS concepts, code examples, and notes.  
 
 ---
